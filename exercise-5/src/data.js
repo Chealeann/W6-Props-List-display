@@ -1,5 +1,4 @@
 /* Your data here */
-/* Your data here */
 import pic1 from './assets/1.png'
 import pic2 from './assets/2.png'
 import pic3 from './assets/3.png'
